@@ -1,0 +1,13 @@
+name: UBC APSC Data Layer
+type: module
+description: Alter the output of the Data Layer module
+package: UBC APSC
+core_version_requirement: ^9
+
+dependencies:
+  - datalayer:datalayer
+
+# Information added by Drupal.org packaging script on 2020-11-18
+version: '1.0'
+project: 'UBC APSC'
+datestamp: 1633535449

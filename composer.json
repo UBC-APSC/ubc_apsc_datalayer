@@ -1,0 +1,19 @@
+{
+    "name": "apsc-web/ubc_apsc_datalayer",
+    "description": "Alter the output of the Data Layer module on Drupal to include a CSV list of taxonomy terms",
+    "type": "drupal-module",
+    "require": {
+	},
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "apsc-web",
+            "email": "web@apsc.ubc.ca",
+			"homepage": "https://apsc.ubc.ca"
+        }
+    ],
+    "minimum-stability": "stable",
+	"support": {
+		"issues": "https://apsc.ubc.ca/web"
+	}
+}
